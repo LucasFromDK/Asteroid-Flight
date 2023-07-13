@@ -1,2 +1,2 @@
-# spacegame
+# Asteroid Flight
 A Space Challenging Game
